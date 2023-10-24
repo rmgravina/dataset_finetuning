@@ -1,3 +1,5 @@
 .env
 dataset/
 dataset_ft/
+processed_dataset/
+*.csv
